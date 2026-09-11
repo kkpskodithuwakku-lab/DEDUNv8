@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DEDUN</string>
+    <string name="widget_name_large">DEDUN Financial Overview</string>
+    <string name="widget_name_small">DEDUN Quick Balance</string>
+    <string name="widget_safe_to_spend_label">SAFE TO SPEND TODAY</string>
+    <string name="widget_fallback_text">Open DEDUN to get started</string>
+</resources>
